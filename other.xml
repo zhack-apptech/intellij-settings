@@ -1,0 +1,65 @@
+<application>
+  <component name="BuiltInServerOptions" allowUnsignedRequests="true" />
+  <component name="EduSettings">
+    <option name="lastTimeChecked" value="1549375712044" />
+    <option name="shownCourseIds">
+      <set />
+    </option>
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.61" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Edu.CourseCreator.Enabled" value="false" />
+    <property name="Educational.conflictingPluginsDisabled" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="IJ_BASE_PACKAGE" value="com.demo" />
+    <property name="INSPECTION_FILTER_HISTORY" value="typo" />
+    <property name="InstalledPluginsSearchHistory" value="thym" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="KEYMAP" value="Macros&#10;Rest&#10;run dash" />
+    <property name="LOG_FILTER_HISTORY" value="apptech" />
+    <property name="LiveContextsPanel[0]" value="0.11007155" />
+    <property name="LiveContextsPanel[1]" value="0.12376238" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PLUGIN_FILTER" value="edutools&#10;swing" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.45517242" />
+    <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
+    <property name="RegistryRecentKeys" value="compiler.automake.trigger.delay=compiler.automake.allow.when.app.running" />
+    <property name="SettingsSearchHistory" value="inspections&#10;plugins&#10;reload&#10;Registry&#10;keymap" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SpringBeansModulesPanel[0]" value="0.108342364" />
+    <property name="TrendingPluginsSearchHistory" value="File Watchers&#10;LiveReload&#10;LiveEdit&#10;Kotlin&#10;Wordpress" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="com.jetbrains.edu.LAST_UPDATE" value="1549375793693" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="evlsprt3.182" value="18" />
+    <property name="evlsprt3.183" value="19" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/AppData/Roaming/npm/terser.cmd&#10;E:/Repository/ENGINEERING/AppTechCRMAdmin/src/main/resources/static/js/googlemap.js&#10;E:/logs/apptechgateway/webadmin.log&#10;E:/logs/apptechgateway/apigateway.log&#10;E:/logs/apptechgateway/microservices.log&#10;E:/Repository/ENGINEERING&#10;E:/Repository/LEO-DEV&#10;E:/Servers/xampp/htdocs/wordpress/wp-content/plugins/AiCard&#10;E:/Servers/xampp/htdocs/wordpress&#10;E:/Training/Laboratory/Kotlin&#10;C:/Users/User/Desktop/hello-world&#10;C:/Users/User/Desktop/spring-boot-rest-example&#10;C:/Users/User/Desktop/springbootdemo/demo&#10;C:/Program Files/Java/jdk1.8.0_191" />
+    <property name="file.gist.reindex.count" value="3613" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="js.overrides.completion" value="true" />
+    <property name="js.var.names.completion" value="false" />
+    <property name="kotlin.lastUpdateCheck" value="1549376929938" />
+    <property name="last.imported.location" value="E:/Repository/ENGINEERING" />
+    <property name="lastTip" value="32" />
+    <property name="project.wizard.group" value="PHP" />
+    <property name="project.wizard.template" value="WordPress Plugin" />
+    <property name="spring.initializr.service.url.history" value="" />
+    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="wordPress.support.wordPressPath" value="E:\Servers\xampp\htdocs\wordpress" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+</application>

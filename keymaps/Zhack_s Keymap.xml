@@ -1,0 +1,14 @@
+<keymap version="1" name="Zhack's Keymap" parent="$default">
+  <action id="ActivateRunDashboardToolWindow">
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
+  <action id="Macro.Switch Projects To Development">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="Macro.Switch Projects To Production">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+  </action>
+  <action id="WebServicesPlugin.CreateRESTClient">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+</keymap>

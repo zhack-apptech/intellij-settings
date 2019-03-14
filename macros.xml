@@ -1,0 +1,40 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Switch Projects To Development">
+      <action id="GotoBookmark0" />
+      <action id="EditorLineEnd" />
+      <action id="EditorSelectWord" />
+      <typing text-keycode="68:0;69:0;86:0;69:0;76:0;79:0;80:0;77:0;69:0;78:0;84:0">development</typing>
+      <action id="SaveAll" />
+      <action id="GotoBookmark9" />
+      <action id="EditorLineEnd" />
+      <action id="EditorSelectWord" />
+      <typing text-keycode="68:0;69:0;86:0;69:0;76:0;79:0;80:0;77:0;69:0;78:0;84:0">development</typing>
+      <action id="SaveAll" />
+      <action id="GotoBookmark8" />
+      <action id="EditorLineEnd" />
+      <action id="EditorSelectWord" />
+      <typing text-keycode="68:0;69:0;86:0;69:0;76:0;79:0;80:0;77:0;69:0;78:0;84:0">development</typing>
+      <action id="SaveAll" />
+    </macro>
+    <macro name="Switch Projects To Production">
+      <action id="GotoBookmark0" />
+      <action id="EditorLineEnd" />
+      <action id="EditorSelectWord" />
+      <typing text-keycode="80:0;82:0;79:0;68:0;85:0;67:0;84:0;73:0;79:0;78:0">production</typing>
+      <action id="SaveAll" />
+      <action id="GotoBookmark9" />
+      <action id="EditorLineEnd" />
+      <action id="EditorSelectWord" />
+      <typing text-keycode="80:0;82:0;79:0;68:0;85:0;67:0;84:0;73:0;79:0;78:0">production</typing>
+      <action id="SaveAll" />
+      <action id="GotoBookmark8" />
+      <action id="EditorLineEnd" />
+      <action id="EditorSelectWord" />
+      <typing text-keycode="80:0;79:0">po</typing>
+      <action id="EditorBackSpace" />
+      <typing text-keycode="82:0;79:0;68:0;85:0;67:0;84:0;73:0;79:0;78:0">roduction</typing>
+      <action id="SaveAll" />
+    </macro>
+  </component>
+</application>

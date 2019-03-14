@@ -1,0 +1,9 @@
+<application>
+  <component name="DefaultFont">
+    <option name="FONT_FAMILY" value="Fira Code" />
+    <option name="USE_LIGATURES" value="true" />
+  </component>
+  <component name="LiveEditOptions" chromeAutoDelay="50" chromeUpdateJSOnChanges="true" restartIfHotSwapFailed="true" useJBChromeExtension="true">
+    <option name="elementHighlighting" value="true" />
+  </component>
+</application>
