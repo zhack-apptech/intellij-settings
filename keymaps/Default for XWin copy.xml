@@ -1,0 +1,8 @@
+<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="Macro.Switch Projects To Development">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="Macro.Switch Projects To Production">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+  </action>
+</keymap>
