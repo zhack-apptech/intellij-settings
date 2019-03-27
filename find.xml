@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Package static.img" />
     <option name="defaultScopeName" value="Package static.img" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Package static.img" />
   </component>
 </application>
