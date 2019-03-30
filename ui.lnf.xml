@@ -7,6 +7,7 @@
     <option name="SCOPE_TYPE" value="file" />
   </component>
   <component name="UISettings">
+    <option name="FONT_FACE" value="San Francisco Display Heavy" />
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
   </component>
 </application>
