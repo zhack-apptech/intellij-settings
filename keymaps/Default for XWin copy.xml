@@ -1,4 +1,7 @@
 <keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="ActivateRunDashboardToolWindow">
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
   <action id="Macro.Switch Projects To Development">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
