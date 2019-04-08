@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'gateway'" />
-    <option name="defaultScopeName" value="Module 'gateway'" />
+    <option name="customScope" value="Interfaces and Entity Classes" />
+    <option name="defaultScopeName" value="Interfaces and Entity Classes" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Module 'gateway'" />
+    <option name="SEARCH_SCOPE" value="Interfaces and Entity Classes" />
   </component>
 </application>
