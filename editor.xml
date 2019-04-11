@@ -1,5 +1,5 @@
 <application>
-  <component name="LiveEditOptions" chromeAutoDelay="50" chromeUpdateJSOnChanges="true" restartIfHotSwapFailed="true" useJBChromeExtension="true">
+  <component name="LiveEditOptions" chromeAutoDelay="50" chromeUpdateJSOnChanges="true" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" useJBChromeExtension="true">
     <option name="elementHighlighting" value="true" />
   </component>
 </application>
