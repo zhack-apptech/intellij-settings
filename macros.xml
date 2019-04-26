@@ -66,5 +66,26 @@
       <action id="EditorBackSpace" />
       <action id="SaveAll" />
     </macro>
+    <macro name="Switch projects to devserver">
+      <action id="GotoBookmark0" />
+      <action id="EditorLineEnd" />
+      <action id="EditorSelectWord" />
+      <typing text-keycode="68:0;69:0;86:0;83:0;69:0;82:0;86:0;69:0;82:0">devserver</typing>
+      <action id="SaveAll" />
+      <action id="GotoBookmark9" />
+      <action id="EditorLineEnd" />
+      <action id="EditorSelectWord" />
+      <typing text-keycode="68:0;69:0;86:0;83:0;69:0;82:0;86:0;69:0;82:0">devserver</typing>
+      <action id="SaveAll" />
+      <action id="GotoBookmark8" />
+      <action id="EditorLineEnd" />
+      <action id="EditorSelectWord" />
+      <typing text-keycode="68:0;69:0;86:0;83:0;69:0;82:0;86:0;69:0;82:0">devserver</typing>
+      <action id="SaveAll" />
+      <shortuct text="control F4" />
+      <shortuct text="control F4" />
+      <shortuct text="control F4" />
+      <shortuct text="control F4" />
+    </macro>
   </component>
 </application>
