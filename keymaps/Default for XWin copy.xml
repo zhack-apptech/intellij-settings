@@ -2,6 +2,9 @@
   <action id="ActivateRunDashboardToolWindow">
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
   <action id="Macro.Switch Projects To Development">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
