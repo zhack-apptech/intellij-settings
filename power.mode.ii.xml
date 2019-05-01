@@ -1,0 +1,6 @@
+<application>
+  <component name="PowerModeII">
+    <option name="heatup" value="0" />
+    <option name="shakeEnabled" value="false" />
+  </component>
+</application>
