@@ -7,5 +7,6 @@
     <entry key="compiler.automake.allow.when.app.running" value="true" />
     <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
     <entry key="compiler.automake.trigger.delay" value="100" />
+    <entry key="debugger.watches.in.variables" value="false" />
   </component>
 </application>
