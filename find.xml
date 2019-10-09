@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../src/main/java/com/zonlytics/api/controller/OrderController.java [Zonlytics]'" />
-    <option name="defaultScopeName" value="File '.../src/main/java/com/zonlytics/api/controller/OrderController.java [Zonlytics]'" />
-    <option name="SEARCH_SCOPE" value="File '.../src/main/java/com/zonlytics/api/controller/OrderController.java [Zonlytics]'" />
+    <option name="customScope" value="Project 'NinjaPOS'" />
+    <option name="defaultScopeName" value="Project 'NinjaPOS'" />
+    <option name="SEARCH_SCOPE" value="Project 'NinjaPOS'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
