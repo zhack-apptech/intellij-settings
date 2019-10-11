@@ -103,6 +103,7 @@
       <option name="showLibraryStackFrames" value="false" />
     </data-views>
     <general>
+      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
       <scroll-to-center>true</scroll-to-center>
     </general>
     <debuggers>
