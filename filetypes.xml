@@ -4,6 +4,7 @@
       <removed_mapping pattern=".env" approved="true" type=".env file" />
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="SingletonInfo" type="PLAIN_TEXT" />
       <mapping pattern=".attach_pid16247" type="PLAIN_TEXT" />
       <mapping pattern=".attach_pid16987" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
