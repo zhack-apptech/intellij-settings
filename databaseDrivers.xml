@@ -11,10 +11,18 @@
     <driver id="derby.embedded">
       <artifact name="Apache Derby" use="true" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="derby.remote">
       <artifact name="Apache Derby" use="true" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="azure.ms">
       <artifact name="SQL Server" use="true" />
@@ -36,10 +44,21 @@
     </driver>
     <driver id="sybase.ase">
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="mysql">
-      <artifact name="MySQL Connector/J" use="true" />
+      <artifact name="MySQL Connector/J" version="5.1.47" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-java-5.1.15-bin.jar</url>
+      </library>
+      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="mariadb">
       <artifact name="MariaDB Connector J" use="true" />
