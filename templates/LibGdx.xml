@@ -4,4 +4,10 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="propswh" value="(float) props.get(&quot;width&quot;), (float) props.get(&quot;height&quot;)," description="Add width and height values using Map Object properties and cast them to float" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="COMPLETION" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
 </templateSet>
