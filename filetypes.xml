@@ -3,6 +3,7 @@
     <extensionMap>
       <removed_mapping pattern=".env" approved="true" type=".env file" />
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="vs" type="C++" />
       <mapping pattern="BehavioralInfo" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="SingletonInfo" type="PLAIN_TEXT" />
