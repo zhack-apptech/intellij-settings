@@ -10,7 +10,9 @@
       <mapping pattern=".attach_pid16247" type="PLAIN_TEXT" />
       <mapping pattern="CreationalInfo" type="PLAIN_TEXT" />
       <mapping pattern="StructuralInfo" type="PLAIN_TEXT" />
+      <mapping pattern="scoredata" type="PLAIN_TEXT" />
       <mapping pattern=".attach_pid16987" type="PLAIN_TEXT" />
+      <mapping ext="bb" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
     </extensionMap>
   </component>
