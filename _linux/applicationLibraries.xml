@@ -10,5 +10,16 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="org.codehaus.groovy:groovy-servlet:2.5.4" type="repository">
+      <properties maven-id="org.codehaus.groovy:groovy-servlet:2.5.4" />
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy-servlet/2.5.4/groovy-servlet-2.5.4.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy/2.5.4/groovy-2.5.4.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy-xml/2.5.4/groovy-xml-2.5.4.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy-templates/2.5.4/groovy-templates-2.5.4.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>
