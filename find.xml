@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'NinjaPOS'" />
-    <option name="defaultScopeName" value="Project 'NinjaPOS'" />
-    <option name="SEARCH_SCOPE" value="Project 'NinjaPOS'" />
+    <option name="customScope" value="Project 'FileStatisticsApp'" />
+    <option name="defaultScopeName" value="Project 'FileStatisticsApp'" />
+    <option name="SEARCH_SCOPE" value="Project 'FileStatisticsApp'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
