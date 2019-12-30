@@ -5,6 +5,15 @@
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="alt button1" />
   </action>
+  <action id="Educational.Check">
+    <keyboard-shortcut first-keystroke="shift ctrl back_slash" second-keystroke="c" />
+  </action>
+  <action id="Educational.NextTask">
+    <keyboard-shortcut first-keystroke="shift ctrl back_slash" second-keystroke="n" />
+  </action>
+  <action id="Hyperskill.PeekSolution">
+    <keyboard-shortcut first-keystroke="shift ctrl back_slash" second-keystroke="p" />
+  </action>
   <action id="Macro.Switch Projects To Development">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
