@@ -3,6 +3,7 @@
     <extensionMap>
       <removed_mapping pattern=".env" approved="true" type=".env file" />
       <mapping ext="vs" type="C++" />
+      <mapping ext="graphqls" type="GraphView" />
       <mapping pattern="scoredata" type="PLAIN_TEXT" />
       <mapping pattern="BehavioralInfo" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
