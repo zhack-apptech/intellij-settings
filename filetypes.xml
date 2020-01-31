@@ -3,17 +3,17 @@
     <extensionMap>
       <removed_mapping pattern=".env" approved="true" type=".env file" />
       <mapping ext="vs" type="C++" />
-      <mapping ext="graphqls" type="GraphView" />
-      <mapping pattern="scoredata" type="PLAIN_TEXT" />
-      <mapping pattern="BehavioralInfo" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="SingletonInfo" type="PLAIN_TEXT" />
-      <mapping pattern=".attach_pid16247" type="PLAIN_TEXT" />
-      <mapping pattern="CreationalInfo" type="PLAIN_TEXT" />
       <mapping pattern="StructuralInfo" type="PLAIN_TEXT" />
+      <mapping pattern="SingletonInfo" type="PLAIN_TEXT" />
+      <mapping pattern="scoredata" type="PLAIN_TEXT" />
+      <mapping pattern="CreationalInfo" type="PLAIN_TEXT" />
+      <mapping pattern=".attach_pid16247" type="PLAIN_TEXT" />
+      <mapping pattern="BehavioralInfo" type="PLAIN_TEXT" />
       <mapping pattern=".attach_pid16987" type="PLAIN_TEXT" />
       <mapping ext="bb" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
+      <removed_mapping ext="graphqls" approved="true" type="GraphView" />
     </extensionMap>
   </component>
 </application>
