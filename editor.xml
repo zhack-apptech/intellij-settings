@@ -8,9 +8,6 @@
   <component name="DefaultFont">
     <option name="FONT_FAMILY" value="Fira Code" />
   </component>
-  <component name="EditorSettings">
-    <option name="IS_BLOCK_CURSOR" value="true" />
-  </component>
   <component name="LiveEditOptions" chromeAutoDelay="700" chromeUpdateJSOnChanges="true" nodeAutoDelay="700" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" useJBChromeExtension="true">
     <option name="elementHighlighting" value="true" />
   </component>
